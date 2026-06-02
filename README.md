@@ -1,4 +1,4 @@
-**### EX7 Implementation of Link Analysis using HITS Algorithm
+### EX7 Implementation of Link Analysis using HITS Algorithm
 ### AIM: To implement Link Analysis using HITS Algorithm in Python.
 ### Description:
 <div align = "justify">
